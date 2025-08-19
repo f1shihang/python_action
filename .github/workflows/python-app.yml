@@ -42,6 +42,6 @@ jobs:
           with: 
             python_ver: '3.10'
             spec: 'main.py'
-            upload_exe_with name: 'fsh_package'
+            upload_exe_with_name: 'fsh_package'
             options: --onefile
     
